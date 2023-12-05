@@ -1,3 +1,4 @@
+This project is solely developed for academic purposes.
 This project is built on the starter kit(https://gitlab.aicrowd.com/aicrowd/challenges/citylearn-challenge/citylearn-2023-starter-kit) provided for CityLearn 2023 Challenge.
 
 This project is developed as a part of CSCE 642 Deep Re-Inforcement Learning course offered at Texas A&M University, College Station during Fall-2023.
