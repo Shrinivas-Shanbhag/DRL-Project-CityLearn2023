@@ -4,6 +4,8 @@ This project is built on the starter kit(https://gitlab.aicrowd.com/aicrowd/chal
 
 This project is developed as a part of CSCE 642 Deep Re-Inforcement Learning course offered at Texas A&M University, College Station during Fall-2023.
 
+Project presentation Youtube link: https://youtu.be/QgflbEWTjWo
+
 # Project Structure:
 
 There are two folders:
